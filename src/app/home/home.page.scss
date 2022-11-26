@@ -10,6 +10,23 @@ ion-header{
   }
 }
 
+ion-content {
+  justify-content: center;
+  ion-list {
+    border-radius: 10px;
+  }
+  .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+
+    ion-button {
+      height: 50px;
+    }
+  }
+}
+
 .valor-corrigido {
   display: flex;
   height: 100px;

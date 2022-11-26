@@ -1,12 +1,12 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title class="ion-text-center">
-      <img src="../../assets/logo.jpeg" class="logo">
+      <img src="../../assets/logo.png" class="logo">
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content color="primary">
+<ion-content color="primary" class="ion-padding">
   <ion-list lines="inset">
     <ion-item>
       <ion-label>Qtd de Prestações</ion-label>
@@ -24,10 +24,12 @@
     </ion-item>
   </ion-list>
 
-  <ion-button (click)="calculoJuros()" color="light">
-    <ion-icon slot="start" name="arrow-forward-circle-outline"></ion-icon>
-    Calcular
-  </ion-button>
+  <div class="button">
+    <ion-button (click)="calculoJuros()" color="light">
+      <ion-icon slot="start" name="arrow-forward-circle-outline"></ion-icon>
+      Calcular
+    </ion-button>
+  </div>
 
   <div class="valor-corrigido" id="">
     <h1>{{valorJuros}}</h1>
