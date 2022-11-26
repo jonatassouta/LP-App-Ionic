@@ -1,0 +1,40 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title class="ion-text-center">
+      <img src="../../assets/logo.jpeg" class="logo">
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content color="primary">
+  <ion-list lines="inset">
+    <ion-item>
+      <ion-label>Qtd de Prestações</ion-label>
+      <ion-input type="number" placeholder="Quantidade de prestações" [(ngModel)]="quantidateParcelas" number-only></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label>Valor da prestação</ion-label>
+      <ion-input type="number" placeholder="Valor das prestações" [(ngModel)]="valorPrestacao"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label>Data Vencimento</ion-label>
+      <ion-input type="date"  [(ngModel)]="dataVencimento" required ></ion-input>
+    </ion-item>
+  </ion-list>
+
+  <ion-button (click)="calculoJuros()" color="light">
+    <ion-icon slot="start" name="arrow-forward-circle-outline"></ion-icon>
+    Calcular
+  </ion-button>
+
+  <div class="valor-corrigido" id="">
+    <h1>{{valorJuros}}</h1>
+  </div>
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar>
+  </ion-toolbar>
+</ion-footer>
