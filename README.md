@@ -22,7 +22,7 @@ Para executar o projeto, siga as seguintes etapas:
 2. Abra o projeto no Visual Studio Code ou em outra IDE de sua preferência.
 3. No terminal da IDE execute o comando ```npm i``` para instalar os pacotes.
 4. Ainda no terminal execute o comando ```npm install -g @angular/cli``` para instalar o Angular.
-5. Feito a instalação execute o comando ```ng serve``` para copilar o projeto.
+5. Feito a instalação execute o comando ```ng serve``` para compilar o projeto e executá-lo.
 6. Abra o chrome ou outro navegador de sua preferência e cole na url ```localhost:4200```, e se preferir com o botão direito do mouse utilize o inspecionar para configurar para modo mobile.
 
 ## ✒️ Autores
