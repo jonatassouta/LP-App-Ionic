@@ -7,12 +7,13 @@ Um aplicativo simples, que conta com regras de negócios reais e que já está e
 # Demonstração
 
 Layout
-
+<p align="center">
 ![lp](https://github.com/jonatassouta/LP-App-Ionic/assets/44308032/60f81e3a-dc36-451c-8250-6a49c79297f5)
 
 Video
 
 https://github.com/jonatassouta/LP-App-Ionic/assets/44308032/5be78231-356b-4006-bd21-7d6b15ff19bb
+</p>
 
 # Como executar o projeto
 
