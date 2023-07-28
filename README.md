@@ -8,7 +8,7 @@ Um aplicativo simples, que conta com regras de negócios reais e que já está e
 
 Layout
 <p align="center">
-<img src="https://github.com/jonatassouta/LP-App-Ionic/assets/44308032/60f81e3a-dc36-451c-8250-6a49c79297f5"/>
+<img style="border-radius: 5px;" src="https://github.com/jonatassouta/LP-App-Ionic/assets/44308032/60f81e3a-dc36-451c-8250-6a49c79297f5"/>
 
 Video
 
