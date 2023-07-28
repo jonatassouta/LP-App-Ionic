@@ -25,6 +25,11 @@ Para executar o projeto, siga as seguintes etapas:
 5. Feito a instalação execute o comando ```ng serve``` para copilar o projeto.
 6. Abra o chrome ou outro navegador de sua preferência e cole na url ```localhost:4200```, e se preferir com o botão direito do mouse utilize o inspecionar para configurar para modo mobile.
 
+## ✒️ Autores
+
+* Daniel Moreira - Regras de negocios, iniciativa do projeto.
+* Jonatas Souta dos Anjos - Desenvolvimento do APP.
+
 ## 🎁 Conclusão
 
 O aplicativo é uma solução eficiente no cálculo de juros em atraso, além de agilizar o cálculo na frente do cliente, oferece uma precisão e segurança de que os cálculos estão corretos e não ocorrera descontos indevidos no salário. O projeto continua em desenvolvimento e terá novos layout e funcionalidades em breve.
