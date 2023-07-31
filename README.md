@@ -25,6 +25,10 @@ Para executar o projeto, siga as seguintes etapas:
 5. Feito a instalação execute o comando ```ng serve``` para compilar o projeto e executá-lo.
 6. Abra o chrome ou outro navegador de sua preferência e cole na url ```localhost:4200```, e se preferir com o botão direito do mouse utilize o inspecionar para configurar para modo mobile.
 
+Ou
+
+Baixe o projeto com as instruções acima, copie e cole no seu celular o "lp-app.apk"(que esta na pasta "APK" do projeto), execute o apk e instale o aplicativo.
+
 ## ✒️ Autores
 
 * Daniel Moreira - Regras de negocios, iniciativa do projeto.
