@@ -36,4 +36,4 @@ Baixe o projeto com as instruções acima, copie e cole no seu celular o "lp-app
 
 ## 🎁 Conclusão
 
-O aplicativo é uma solução eficiente no cálculo de juros em atraso, além de agilizar o cálculo na frente do cliente, oferece uma precisão e segurança de que os cálculos estão corretos e não ocorrera descontos indevidos no salário. O projeto continua em desenvolvimento e terá novos layout e funcionalidades em breve.
+O aplicativo é uma solução eficiente no cálculo de juros em atraso, além de agilizar o cálculo, oferece uma precisão e segurança de que os cálculos estão corretos e não ocorrera descontos indevidos no salário. O projeto continua em desenvolvimento e terá novos layout e funcionalidades em breve.
